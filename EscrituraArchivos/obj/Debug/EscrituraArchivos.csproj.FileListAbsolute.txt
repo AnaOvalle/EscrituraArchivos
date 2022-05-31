@@ -1,0 +1,7 @@
+C:\Users\asfix\OneDrive\POO u5\EscrituraArchivos\EscrituraArchivos\bin\Debug\EscrituraArchivos.exe.config
+C:\Users\asfix\OneDrive\POO u5\EscrituraArchivos\EscrituraArchivos\bin\Debug\EscrituraArchivos.exe
+C:\Users\asfix\OneDrive\POO u5\EscrituraArchivos\EscrituraArchivos\bin\Debug\EscrituraArchivos.pdb
+C:\Users\asfix\OneDrive\POO u5\EscrituraArchivos\EscrituraArchivos\obj\Debug\EscrituraArchivos.csproj.AssemblyReference.cache
+C:\Users\asfix\OneDrive\POO u5\EscrituraArchivos\EscrituraArchivos\obj\Debug\EscrituraArchivos.csproj.CoreCompileInputs.cache
+C:\Users\asfix\OneDrive\POO u5\EscrituraArchivos\EscrituraArchivos\obj\Debug\EscrituraArchivos.exe
+C:\Users\asfix\OneDrive\POO u5\EscrituraArchivos\EscrituraArchivos\obj\Debug\EscrituraArchivos.pdb
