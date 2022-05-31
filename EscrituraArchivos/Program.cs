@@ -11,28 +11,30 @@ namespace EscrituraArchivos
     {
         static void Main(string[] args)
         {
-            StreamWriter sw = new StreamWriter("ejemplo.txt", true);
-            // si el archivo no existe creará el elemento o archivo
-            // si ya existe escribirá en el.
-            // true es para agregar y no para sobrescribir
+            // Declaración de la matriz
+            string[] lines = new string[1];
+            // declaración de la variable
+            string n;
 
-            // crear un arreglo 
-            string[] lines =
-            {
-                "Esta es la información de la primera línea",
-                "Esta es la segunda línea",
-                "fin del texto"
-            };
+            // captura del nombre
+            Console.WriteLine("Ingrese nombre: ");
+            n = Console.ReadLine();
 
-            // Recorre el arreglo
-            foreach  (string line in lines)
+            // asignacion
+            lines[0] = n;
+            
+
+            using (StreamWriter sx = new StreamWriter("archivo.txt"))
             {
-                sw.WriteLine(line); //Escribe el archivo
+                for (int e = 0; e < lines.Length; e++)
+                {
+                    sx.WriteLine(lines[e]);
+                }
+                sx.Close();
+                Console.WriteLine("Escribiendo el archivo...");
+                Console.ReadLine();
             }
-            sw.Close();
 
-            Console.WriteLine("Escribiendo el archivo...");
-            Console.ReadLine();
                 
         }
     }
