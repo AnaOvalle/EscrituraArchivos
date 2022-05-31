@@ -1,0 +1,8 @@
+Casa: Slytherin
+Nombre: Draco Malfoy
+Lema: Harás tus verdaderos amigos
+Edad: 11
+Grado a cursar: primer año
+
+Bienvenido a la sala común de Slytherin
+Contraseña incorrecta

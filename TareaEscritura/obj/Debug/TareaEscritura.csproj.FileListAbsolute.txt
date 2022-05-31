@@ -1,0 +1,7 @@
+C:\Users\asfix\OneDrive\POO u5\EscrituraArchivos\TareaEscritura\bin\Debug\TareaEscritura.exe.config
+C:\Users\asfix\OneDrive\POO u5\EscrituraArchivos\TareaEscritura\bin\Debug\TareaEscritura.exe
+C:\Users\asfix\OneDrive\POO u5\EscrituraArchivos\TareaEscritura\bin\Debug\TareaEscritura.pdb
+C:\Users\asfix\OneDrive\POO u5\EscrituraArchivos\TareaEscritura\obj\Debug\TareaEscritura.csproj.AssemblyReference.cache
+C:\Users\asfix\OneDrive\POO u5\EscrituraArchivos\TareaEscritura\obj\Debug\TareaEscritura.csproj.CoreCompileInputs.cache
+C:\Users\asfix\OneDrive\POO u5\EscrituraArchivos\TareaEscritura\obj\Debug\TareaEscritura.exe
+C:\Users\asfix\OneDrive\POO u5\EscrituraArchivos\TareaEscritura\obj\Debug\TareaEscritura.pdb
